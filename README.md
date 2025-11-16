@@ -80,7 +80,7 @@ Follow these steps to set up and run the project on your local machine.
 
 ### 2. Download the Data
 The model is trained on the **IPL Complete Dataset (2008-2022)** from Kaggle.
-1.  Download the dataset from [this Kaggle link](https://www.kaggle.com/datasets/patrickb19121991/ipl-complete-dataset-2008-2022).
+1.  Download the dataset from [this Kaggle link](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020).
 2.  You will need two files: `matches.csv` and `deliveries.csv`.
 
 ### 3. Clone the Repository
