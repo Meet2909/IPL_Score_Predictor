@@ -1,0 +1,18 @@
+# Data handling and processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# App Framework & Visuals
+streamlit
+plotly
+
+# Model saving
+joblib
+
+# For running the notebook
+jupyterlab
+ipykernel
