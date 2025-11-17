@@ -178,7 +178,6 @@ The categorical features are one-hot encoded using a `ColumnTransformer`, which 
 
 ## Future Improvements
 
-* Deploy the Streamlit app to a public-facing service (e.g., Streamlit Community Cloud).
 * Add more advanced plots, such as player-specific contributions.
 * Retrain the model with data from newer IPL seasons (2023+).
 
