@@ -12,13 +12,13 @@ This project predicts the win probability for the chasing team in an IPL (Indian
 
 ## 🌟 Key Features
 
-* **📈 Live Win Probability:** Input the current match state (teams, venue, target, score, overs, etc.) to get an instant win probability for the chasing team.
-* **📊 Historical Match Analysis:** Select any two teams and choose a specific historical match to visualize the ball-by-ball chase.
-* **🚀 Interactive Visualizations:**
+* ** Live Win Probability:** Input the current match state (teams, venue, target, score, overs, etc.) to get an instant win probability for the chasing team.
+* ** Historical Match Analysis:** Select any two teams and choose a specific historical match to visualize the ball-by-ball chase.
+* ** Interactive Visualizations:**
     * **Win Probability Progression:** A line chart showing how the win percentage changed with every ball.
     * **Run Rate Progression:** A "worm graph" comparing the chasing team's current run rate (CRR) against the required run rate (RRR).
     * **Wickets Fallen Over Time:** A step plot visualizing when each wicket fell.
-* **🧠 Advanced Feature Engineering:** The model's accuracy is enhanced by using features like `runs_last_5_overs`, `wickets_last_5_overs`, `current_run_rate`, and `required_run_rate`.
+* ** Advanced Feature Engineering:** The model's accuracy is enhanced by using features like `runs_last_5_overs`, `wickets_last_5_overs`, `current_run_rate`, and `required_run_rate`.
 
 ---
 
@@ -51,7 +51,7 @@ This mode lets you load a past match and see how the win probability, run rate, 
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 IPL_Score_Predictor/
@@ -72,7 +72,7 @@ IPL_Score_Predictor/
 
 ---
 
-## 🚀 How to Run This Project Locally
+##  How to Run This Project Locally
 
 Follow these steps to set up and run the project on your local machine.
 
@@ -149,7 +149,7 @@ Your browser should automatically open to the application's local address (usual
 
 ---
 
-## 🤖 The Model Explained
+##  The Model Explained
 
 ### Data Source
 The model is trained on ball-by-ball data from the IPL (2008-2022).
